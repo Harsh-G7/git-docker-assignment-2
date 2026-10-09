@@ -1,4 +1,4 @@
-# Git and Docker Starter Application - Local Workflow
+# Git and Docker Starter Application - Local and Team Workflow
 
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
 
